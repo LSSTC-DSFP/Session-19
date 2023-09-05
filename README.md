@@ -21,8 +21,8 @@ Saturday, Sep 9, 2023
 * 11:30 AM - 12:15 PM Introduction to the Vera C Rubin Observatory and Legacy Survey of Space & Time; L. Walkowicz
 * 12:15 PM - 12:30 PM Goals of the DSFP; B Scott
 * 12:30 PM - 01:30 PM LUNCH (provided) & Discussion of the Code of Conduct; B. Scott
-* 01:30 PM - 02:30 PM [Introduction to Classical Statistics](); A. Miller
-* 02:30 PM - 03:30 PM [Introduction to Bayesian Statistics](); B. Scott
+* 01:30 PM - 02:30 PM Introduction to Classical Statistics; A. Miller
+* 02:30 PM - 03:30 PM Introduction to Bayesian Statistics; B. Scott
 * 03:30 PM - ??? Break
  
 ## Day 1 – A Gentle Introduction to Machine Learning 
@@ -37,15 +37,15 @@ Sunday, Sep 10, 2023
 
  * 09:00 AM – 09:30 AM  o  Introduction of Cohort 7 and the new instructors
  * 09:30 AM – 09:45 AM  o  Introduction to Hack Sessions
- * 09:45 AM – 10:30 AM  o  [Introduction to Machine Learning](); B. Scott
+ * 09:45 AM – 10:30 AM  o  Introduction to Machine Learning; B. Scott
  * 10:30 AM – 11:00 AM  o  BREAK
- * 11:00 AM – 12:00 PM  o  [Problem: Introduction to ML](); B. Scott
+ * 11:00 AM – 12:00 PM  o  Problem: Introduction to ML; B. Scott
  * 12:00 PM – 01:30 PM  o  LUNCH
- * 01:30 PM – 02:15 PM  o  [Introduction to Unsupervised Learning]; A. Miller
+ * 01:30 PM – 02:15 PM  o  Introduction to Unsupervised Learning; A. Miller
  * 02:15 PM – 03:15 PM  o  BREAK
- * 03:15 PM – 04:00 PM  o [Problem: Introduction to Unsupervised Learning]; A. Miller
- * 04:00 PM – 05:00 PM  o [Introduction to Dimensionality Reduction]; B. Scott
- * 05:00 PM - 06:00 PM  o [Problem: Introduction to Dimensionality Reduction]; B. Scott
+ * 03:15 PM – 04:00 PM  o Problem: Introduction to Unsupervised Learning; A. Miller
+ * 04:00 PM – 05:00 PM  o Introduction to Dimensionality Reduction; B. Scott
+ * 05:00 PM - 06:00 PM  o Problem: Introduction to Dimensionality Reduction; B. Scott
  
 ## Day 2 – Supervised and Unsupervised ML 
 
@@ -55,14 +55,14 @@ Sunday, Sep 10, 2023
 
 
 Monday, Sep 11, 2023
- * 09:00 AM – 10:30 AM  o [Introduction to Supervised Machine Learning]; V. Acquaviva
+ * 09:00 AM – 10:30 AM  o Introduction to Supervised Machine Learning; V. Acquaviva
  * 10:30 AM – 11:00 AM  o  BREAK
- * 11:00 AM – 12:00 PM  o [Problem – Introduction to Supervised Machine Learning]; V. Acquaviva
+ * 11:00 AM – 12:00 PM  o Problem – Introduction to Supervised Machine Learning; V. Acquaviva
  * 12:00 PM - 01:30 PM o LUNCH 
  * 01:30 PM – 02:30 PM  o Tree & Ensemble Methods; V. Acquaviva
  * 02:30 PM – 03:30 PM  o Problem: Tree & Ensemble Methods; V. Acquaviva
 * 03:30 PM - 04:00 PM o BREAK 
-* 04:00 PM - 05:00 PM o [Live Code: The Perceptron] A. Miller or B. Scott 
+* 04:00 PM - 05:00 PM o Live Code: The Perceptron A. Miller or B. Scott 
 * 06:00 PM - ??:?? PM o Group dinner 
  
 ## Day 3 — Topic TBA
@@ -73,9 +73,9 @@ Monday, Sep 11, 2023
 
 Tuesday, Sep 12, 2023
 
-* 09:00 AM - 10:00 AM o [Convolutional Neural Networks](), J. Wu 
+* 09:00 AM - 10:00 AM o Convolutional Neural Networks, J. Wu 
 * 10:00 AM - 10:30 AM o BREAK
-* 10:30 AM - 12:00 PM o [Problem: Convolutional Neural Networks]() J. Wu
+* 10:30 AM - 12:00 PM o Problem: Convolutional Neural Networks J. Wu
 * 12:00 PM - ??:?? PM o BREAK
 
 ## Day 4 — Graph Neural Networks and Statistical Learning 
@@ -85,12 +85,12 @@ Tuesday, Sep 12, 2023
 -- Rachael (*Blade Runner*)
 
 Wednesday, Sep 13, 2023 
-* 09:00 AM – 10:00 AM o Graph Neural Networks [Part 1](); J. Wu
+* 09:00 AM – 10:00 AM o Graph Neural Networks; J. Wu
 * 10:00 AM – 10:30 AM o BREAK 
-* 10:30 AM – 12:00 PM o Problem: Graph Neural Networks [Solutions](); J. Wu
+* 10:30 AM – 12:00 PM o Problem: Graph Neural Networks; J. Wu
 * 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o Lecture: Thompson Sampling; Ari [Lecture: The Upper Confidence Bound](); A. Sravan
-* 02:30 PM – 04:00 PM o Problem: Thompson Sampling; Ari [Lecture: The Upper Confidence Bound](); A. Sravan
+* 01:30 PM – 02:30 PM o Lecture: The Upper Confidence Bound; A. Sravan
+* 02:30 PM – 04:00 PM o Lecture: The Upper Confidence Bound; A. Sravan
 * 04:00 PM – 04:30 PM o BREAK 
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
  
