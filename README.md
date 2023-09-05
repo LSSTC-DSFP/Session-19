@@ -25,7 +25,7 @@ Saturday, Sep 9, 2023
 * 02:30 PM - 03:30 PM Introduction to Bayesian Statistics; B. Scott
 * 03:30 PM - ??? Break
  
-## Day 1 – A Gentle Introduction to Machine Learning 
+## Day 1 – An Introduction to Machine Learning & Unsupervised Learning 
 
 "42."
 
@@ -47,7 +47,7 @@ Sunday, Sep 10, 2023
  * 04:00 PM – 05:00 PM  o Introduction to Dimensionality Reduction; B. Scott
  * 05:00 PM - 06:00 PM  o Problem: Introduction to Dimensionality Reduction; B. Scott
  
-## Day 2 – Supervised and Unsupervised ML 
+## Day 2 – Supervised Machine Learning, Tree, & Ensemble Methods 
 
 "I have an infinite capacity for knowledge, and even I'm not sure what is going on outside..."
 
@@ -65,7 +65,7 @@ Monday, Sep 11, 2023
 * 04:00 PM - 05:00 PM o Live Code: The Perceptron A. Miller or B. Scott 
 * 06:00 PM - ??:?? PM o Group dinner 
  
-## Day 3 — Topic TBA
+## Day 3 — Convolutional Neural Networks 
 
 "I am capable of distinguishing over one hundred and fifty simultaneous compositions. But in order to analyze the aesthetics, I try to keep it to ten or less."
 
@@ -78,7 +78,7 @@ Tuesday, Sep 12, 2023
 * 10:30 AM - 12:00 PM o Problem: Convolutional Neural Networks J. Wu
 * 12:00 PM - ??:?? PM o BREAK
 
-## Day 4 — Graph Neural Networks and Statistical Learning 
+## Day 4 — Graph Neural Networks and Reinforcement Learning
 
 "It seems you feel our work is not of benefit to the public."
 
@@ -94,7 +94,7 @@ Wednesday, Sep 13, 2023
 * 04:00 PM – 04:30 PM o BREAK 
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
  
-## Day 5 — Statistical Learning & Hack Session
+## Day 5 — Reinforcement Learning (cont.) & Hack Session
 
 "The 9000 series is the most reliable computer ever made. No 9000 computer has ever made a mistake or distorted information. We are all, by any practical definition of the words, foolproof and incapable of error."
 
