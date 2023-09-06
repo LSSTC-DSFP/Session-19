@@ -21,9 +21,9 @@ Saturday, Sep 9, 2023
 * 11:30 AM - 12:15 PM Introduction to the Vera C Rubin Observatory and Legacy Survey of Space & Time; L. Walkowicz
 * 12:15 PM - 12:30 PM Goals of the DSFP; B Scott
 * 12:30 PM - 01:30 PM LUNCH (provided) & Discussion of the Code of Conduct; B. Scott
-* 01:30 PM - 02:30 PM Introduction to Classical Statistics; A. Miller
-* 02:30 PM - 03:30 PM Introduction to Bayesian Statistics; B. Scott
-* 03:30 PM - ??? Break
+* 01:30 PM - 02:45 PM Introduction to Classical Statistics; A. Miller
+* 02:45 PM - 04:00 PM Introduction to Bayesian Statistics; B. Scott
+* 04:00 PM - ??? Break
  
 ## Day 1 – An Introduction to Machine Learning & Unsupervised Learning 
 
@@ -62,7 +62,7 @@ Monday, Sep 11, 2023
  * 01:30 PM – 02:30 PM  o Tree & Ensemble Methods; V. Acquaviva
  * 02:30 PM – 03:30 PM  o Problem: Tree & Ensemble Methods; V. Acquaviva
 * 03:30 PM - 04:00 PM o BREAK 
-* 04:00 PM - 05:00 PM o Live Code: The Perceptron A. Miller or B. Scott 
+* 04:00 PM - 05:30 PM o Live Code: The Perceptron A. Miller or B. Scott 
 * 06:00 PM - ??:?? PM o Group dinner 
  
 ## Day 3 — Convolutional Neural Networks 
@@ -90,7 +90,7 @@ Wednesday, Sep 13, 2023
 * 10:30 AM – 12:00 PM o Problem: Graph Neural Networks; J. Wu
 * 12:00 PM – 01:30 PM o LUNCH 
 * 01:30 PM – 02:30 PM o Lecture: The Upper Confidence Bound; A. Sravan
-* 02:30 PM – 04:00 PM o Lecture: The Upper Confidence Bound; A. Sravan
+* 02:30 PM – 04:00 PM o Problem: The Upper Confidence Bound; A. Sravan
 * 04:00 PM – 04:30 PM o BREAK 
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
  
