@@ -2,16 +2,16 @@
 
 The nineteenth session of the LSSTC DSFP was hosted by Drexel University in September 2023 and the curriculum covered Machine Learning. 
 
-The guest instructors for the S19 were: 
-Viviana Acquaviva [:octocat:](https://github.com/vacquaviva)
-John Wu [:octocat:](https://github.com/jwuphysics)
-Niharika Sravan [:octocat:](https://github.com/niharika-sravan)
-Vicki Toy-Edens [:octocat:]
+The guest instructors for the S19 were:  
+Viviana Acquaviva [:octocat:](https://github.com/vacquaviva)  
+John Wu [:octocat:](https://github.com/jwuphysics)  
+Niharika Sravan [:octocat:](https://github.com/niharika-sravan)  
+Vicki Toy-Edens [:octocat:]  
 
-Additional lectures were given by the DSFP leadership team: 
-Bryan Scott [:octocat:](https://github.com/bscot)
-Adam Miller [:octocat:](https://github.com/adamamiller)  
-Lucianne Walkowicz [:octocat:](https://github.com/lmwalkowicz)
+Additional lectures were given by the DSFP leadership team:  
+Bryan Scott [:octocat:](https://github.com/bscot)  
+Adam Miller [:octocat:](https://github.com/adamamiller)   
+Lucianne Walkowicz [:octocat:](https://github.com/lmwalkowicz)  
 
 # Schedule
 
