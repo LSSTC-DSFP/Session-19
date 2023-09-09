@@ -19,12 +19,11 @@ Lucianne Walkowicz [:octocat:](https://github.com/lmwalkowicz)
 
 "The future ain't what it used to be."
 
--- Yogi Berra
+~ Yogi Berra
 
 Two orientation lectures are provided asynchronously, these are:
 - A Brief Introduction to git/GitHub; B Scott 
 - Building Visualizations Via Principles of Design ; A Miller
-
 
 Saturday, Sep 9, 2023 
 
@@ -42,8 +41,6 @@ Saturday, Sep 9, 2023
 "42."
 
 ~ Deep Thought on the answer to life, the universe, and everything (*The Hitchhiker's Guide to the Galaxy*). 
-
--- 
 
 Sunday, Sep 10, 2023
 
@@ -81,7 +78,7 @@ Monday, Sep 11, 2023
 
 "I am capable of distinguishing over one hundred and fifty simultaneous compositions. But in order to analyze the aesthetics, I try to keep it to ten or less."
 
--- Lt. Cmdr. Data (*Star Trek: The Next Generation*)
+~ Lt. Cmdr. Data (*Star Trek: The Next Generation*)
 
 Tuesday, Sep 12, 2023
 
@@ -94,9 +91,10 @@ Tuesday, Sep 12, 2023
 
 "It seems you feel our work is not of benefit to the public."
 
--- Rachael (*Blade Runner*)
+~ Rachael (*Blade Runner*)
 
 Wednesday, Sep 13, 2023 
+
 * 09:00 AM – 10:00 AM o Graph Neural Networks; J. Wu
 * 10:00 AM – 10:30 AM o BREAK 
 * 10:30 AM – 12:00 PM o Problem: Graph Neural Networks; J. Wu
@@ -110,9 +108,10 @@ Wednesday, Sep 13, 2023
 
 "The 9000 series is the most reliable computer ever made. No 9000 computer has ever made a mistake or distorted information. We are all, by any practical definition of the words, foolproof and incapable of error."
 
--- HAL 9000 (*2001: A Space Odyssey*)
+~ HAL 9000 (*2001: A Space Odyssey*)
 
 Thursday, Sep 14, 2023
+
 * 9:00 AM - 10:00  AM o Lecture: Thompson Sampling; A. Sravan
 * 09:45 AM – 10:45 AM o Problem: Thompson Sampling; A. Sravan
 * 10:45 AM – 11:00 AM o BREAK 
