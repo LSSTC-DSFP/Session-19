@@ -1,6 +1,17 @@
-  # Session 19
+# Session 19
 
-The nineteenth session of the LSSTC DSFP focuses on Machine Learning. 
+The nineteenth session of the LSSTC DSFP was hosted by Drexel University in September 2023 and the curriculum covered Machine Learning. 
+
+The guest instructors for the S19 were: 
+Viviana Acquaviva [:octocat:](https://github.com/vacquaviva)
+John Wu [:octocat:](https://github.com/jwuphysics)
+Niharika Sravan [:octocat:](https://github.com/niharika-sravan)
+Vicki Toy-Edens [:octocat:]
+
+Additional lectures were given by the DSFP leadership team: 
+Bryan Scott [:octocat:](https://github.com/bscot)
+Adam Miller [:octocat:](https://github.com/adamamiller)  
+Lucianne Walkowicz [:octocat:](https://github.com/lmwalkowicz)
 
 # Schedule
 
@@ -8,21 +19,21 @@ The nineteenth session of the LSSTC DSFP focuses on Machine Learning.
 
 "The future ain't what it used to be."
 
--- Yogi Berra
+~ Yogi Berra
 
 Two orientation lectures are provided asynchronously, these are:
 - A Brief Introduction to git/GitHub; B Scott 
 - Building Visualizations Via Principles of Design ; A Miller
 
-
 Saturday, Sep 9, 2023 
+
 * 10:30 AM - 11:00 AM Registration & Introductions,
 * 11:00 AM - 11:30 AM Incoming Student Survey 
 * 11:30 AM - 12:15 PM Introduction to the Vera C Rubin Observatory and Legacy Survey of Space & Time; L. Walkowicz
-* 12:15 PM - 12:30 PM Goals of the DSFP; B Scott
+* 12:15 PM - 12:30 PM Goals of the DSFP; B. Scott
 * 12:30 PM - 01:30 PM LUNCH (provided) & Discussion of the Code of Conduct; B. Scott
-* 01:30 PM - 02:45 PM Introduction to Classical Statistics; A. Miller
-* 02:45 PM - 04:00 PM Introduction to Bayesian Statistics; B. Scott
+* 01:30 PM - 02:45 PM [Probability and Data](./day0/ProbabilityAndData.ipynb); A. Miller [Solutions](./day0/ProbabilityAndDataSolutions.ipynb)
+* 02:45 PM - 04:00 PM [Introduction to Bayesian Statistics](./day0/Introduction%20to%20Bayesian%20Reasoning%20(Session%2019%20Orientation)%20No%20Solutions.ipynb); B. Scott
 * 04:00 PM - ??? Break
  
 ## Day 1 – An Introduction to Machine Learning & Unsupervised Learning 
@@ -30,8 +41,6 @@ Saturday, Sep 9, 2023
 "42."
 
 ~ Deep Thought on the answer to life, the universe, and everything (*The Hitchhiker's Guide to the Galaxy*). 
-
--- 
 
 Sunday, Sep 10, 2023
 
@@ -61,15 +70,15 @@ Monday, Sep 11, 2023
  * 12:00 PM - 01:30 PM o LUNCH 
  * 01:30 PM – 02:30 PM  o Tree & Ensemble Methods; V. Acquaviva
  * 02:30 PM – 03:30 PM  o Problem: Tree & Ensemble Methods; V. Acquaviva
-* 03:30 PM - 04:00 PM o BREAK 
-* 04:00 PM - 05:30 PM o Live Code: The Perceptron A. Miller or B. Scott 
-* 06:00 PM - ??:?? PM o Group dinner 
+ * 03:30 PM - 04:00 PM o BREAK 
+ * 04:00 PM - 05:30 PM o Live Code: The Perceptron A. Miller or B. Scott 
+ * 06:00 PM - ??:?? PM o Group dinner 
  
 ## Day 3 — Convolutional Neural Networks 
 
 "I am capable of distinguishing over one hundred and fifty simultaneous compositions. But in order to analyze the aesthetics, I try to keep it to ten or less."
 
--- Lt. Cmdr. Data (*Star Trek: The Next Generation*)
+~ Lt. Cmdr. Data (*Star Trek: The Next Generation*)
 
 Tuesday, Sep 12, 2023
 
@@ -82,9 +91,10 @@ Tuesday, Sep 12, 2023
 
 "It seems you feel our work is not of benefit to the public."
 
--- Rachael (*Blade Runner*)
+~ Rachael (*Blade Runner*)
 
 Wednesday, Sep 13, 2023 
+
 * 09:00 AM – 10:00 AM o Graph Neural Networks; J. Wu
 * 10:00 AM – 10:30 AM o BREAK 
 * 10:30 AM – 12:00 PM o Problem: Graph Neural Networks; J. Wu
@@ -98,9 +108,10 @@ Wednesday, Sep 13, 2023
 
 "The 9000 series is the most reliable computer ever made. No 9000 computer has ever made a mistake or distorted information. We are all, by any practical definition of the words, foolproof and incapable of error."
 
--- HAL 9000 (*2001: A Space Odyssey*)
+~ HAL 9000 (*2001: A Space Odyssey*)
 
 Thursday, Sep 14, 2023
+
 * 9:00 AM - 10:00  AM o Lecture: Thompson Sampling; A. Sravan
 * 09:45 AM – 10:45 AM o Problem: Thompson Sampling; A. Sravan
 * 10:45 AM – 11:00 AM o BREAK 
