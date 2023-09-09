@@ -1,6 +1,17 @@
-  # Session 19
+# Session 19
 
-The nineteenth session of the LSSTC DSFP focuses on Machine Learning. 
+The nineteenth session of the LSSTC DSFP was hosted by Drexel University in September 2023 and the curriculum covered Machine Learning. 
+
+The guest instructors for the S19 were: 
+Viviana Acquaviva [:octocat:](https://github.com/vacquaviva)
+John Wu [:octocat:](https://github.com/jwuphysics)
+Niharika Sravan [:octocat:](https://github.com/niharika-sravan)
+Vicki Toy-Edens [:octocat:]
+
+Additional lectures were given by the DSFP leadership team: 
+Bryan Scott [:octocat:](https://github.com/bscot)
+Adam Miller [:octocat:](https://github.com/adamamiller)  
+Lucianne Walkowicz [:octocat:](https://github.com/lmwalkowicz)
 
 # Schedule
 
@@ -16,12 +27,13 @@ Two orientation lectures are provided asynchronously, these are:
 
 
 Saturday, Sep 9, 2023 
+
 * 10:30 AM - 11:00 AM Registration & Introductions,
 * 11:00 AM - 11:30 AM Incoming Student Survey 
 * 11:30 AM - 12:15 PM Introduction to the Vera C Rubin Observatory and Legacy Survey of Space & Time; L. Walkowicz
-* 12:15 PM - 12:30 PM Goals of the DSFP; B Scott
+* 12:15 PM - 12:30 PM Goals of the DSFP; B. Scott
 * 12:30 PM - 01:30 PM LUNCH (provided) & Discussion of the Code of Conduct; B. Scott
-* 01:30 PM - 02:45 PM Introduction to Classical Statistics; A. Miller
+* 01:30 PM - 02:45 PM [Probability and Data](./day0/ProbabilityAndData.ipynb); A. Miller [Solutions](./day0/ProbabilityAndDataSolutions.ipynb)
 * 02:45 PM - 04:00 PM Introduction to Bayesian Statistics; B. Scott
 * 04:00 PM - ??? Break
  
@@ -61,9 +73,9 @@ Monday, Sep 11, 2023
  * 12:00 PM - 01:30 PM o LUNCH 
  * 01:30 PM – 02:30 PM  o Tree & Ensemble Methods; V. Acquaviva
  * 02:30 PM – 03:30 PM  o Problem: Tree & Ensemble Methods; V. Acquaviva
-* 03:30 PM - 04:00 PM o BREAK 
-* 04:00 PM - 05:30 PM o Live Code: The Perceptron A. Miller or B. Scott 
-* 06:00 PM - ??:?? PM o Group dinner 
+ * 03:30 PM - 04:00 PM o BREAK 
+ * 04:00 PM - 05:30 PM o Live Code: The Perceptron A. Miller or B. Scott 
+ * 06:00 PM - ??:?? PM o Group dinner 
  
 ## Day 3 — Convolutional Neural Networks 
 
