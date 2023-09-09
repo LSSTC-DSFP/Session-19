@@ -40,7 +40,7 @@ Saturday, Sep 9, 2023
 * 12:15 PM - 12:30 PM Goals of the DSFP; B. Scott
 * 12:30 PM - 01:30 PM LUNCH (provided) & Discussion of the Code of Conduct; B. Scott
 * 01:30 PM - 02:45 PM [Probability and Data](./day0/ProbabilityAndData.ipynb); A. Miller [Solutions](./day0/ProbabilityAndDataSolutions.ipynb)
-* 02:45 PM - 04:00 PM Introduction to Bayesian Statistics; B. Scott
+* 02:45 PM - 04:00 PM [Introduction to Bayesian Statistics](./day0/Introduction%20to%20Bayesian%20Reasoning%20(Session%2019%20Orientation)%20No%20Solutions.ipynb); B. Scott
 * 04:00 PM - ??? Break
  
 ## Day 1 – An Introduction to Machine Learning & Unsupervised Learning 
