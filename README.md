@@ -46,15 +46,15 @@ Sunday, Sep 10, 2023
 
  * 09:00 AM – 09:30 AM  o  Introduction of Cohort 7 and the new instructors
  * 09:30 AM – 09:45 AM  o  Introduction to Hack Sessions
- * 09:45 AM – 10:30 AM  o  Introduction to Machine Learning; B. Scott
+ * 09:45 AM – 10:30 AM  o  Lecture I – Introduction to Machine Learning; B. Scott
  * 10:30 AM – 11:00 AM  o  BREAK
- * 11:00 AM – 12:00 PM  o  Problem: Introduction to ML; B. Scott
- * 12:00 PM – 01:45 PM  o  LUNCH
- * 01:45 PM – 02:45 PM  o  Introduction to Unsupervised Learning; A. Miller
- * 02:45 PM – 03:15 PM  o  BREAK
- * 03:15 PM – 04:00 PM  o Problem: Introduction to Unsupervised Learning; A. Miller
- * 04:00 PM – 05:00 PM  o Introduction to Dimensionality Reduction; B. Scott
- * 05:00 PM - 06:00 PM  o Problem: Introduction to Dimensionality Reduction; B. Scott
+ * 11:00 AM – 12:15 PM  o  Problem I – Introduction to ML; B. Scott
+ * 12:15 PM – 01:45 PM  o  LUNCH
+ * 01:45 PM – 02:30 PM  o  Lecture II – Introduction to Unsupervised Learning; A. Miller
+ * 02:30 PM – 03:30 PM  o  Problem II – Introduction to Unsupervised Learning; A. Miller
+ * 03:30 PM – 03:40 PM  o  BREAK
+ * 04:00 PM – 05:00 PM  o  Lecture III – Introduction to Dimensionality Reduction; B. Scott
+ * 05:00 PM - 06:00 PM  o Problem III – Introduction to Dimensionality Reduction; B. Scott
  
 ## Day 2 – Supervised Machine Learning, Tree, & Ensemble Methods 
 
@@ -64,14 +64,15 @@ Sunday, Sep 10, 2023
 
 
 Monday, Sep 11, 2023
- * 09:00 AM – 10:30 AM  o Introduction to Supervised Machine Learning; V. Acquaviva
+
+ * 09:00 AM – 10:30 AM  o Lecture IV – Introduction to Supervised Machine Learning; V. Acquaviva
  * 10:30 AM – 11:00 AM  o  BREAK
  * 11:00 AM – 12:00 PM  o Problem – Introduction to Supervised Machine Learning; V. Acquaviva
  * 12:00 PM - 01:30 PM o LUNCH 
- * 01:30 PM – 02:30 PM  o Tree & Ensemble Methods; V. Acquaviva
+ * 01:30 PM – 02:30 PM  o Lecture V – Tree & Ensemble Methods; V. Acquaviva
  * 02:30 PM – 03:30 PM  o Problem: Tree & Ensemble Methods; V. Acquaviva
  * 03:30 PM - 04:00 PM o BREAK 
- * 04:00 PM - 05:30 PM o Live Code: The Perceptron A. Miller or B. Scott 
+ * 04:00 PM - 05:30 PM o Lecture VI – The Perceptron; A. Miller 
  * 06:00 PM - ??:?? PM o Group dinner 
  
 ## Day 3 — Convolutional Neural Networks 
@@ -82,7 +83,7 @@ Monday, Sep 11, 2023
 
 Tuesday, Sep 12, 2023
 
-* 09:00 AM - 10:00 AM o Convolutional Neural Networks, J. Wu 
+* 09:00 AM - 10:00 AM o Lecture VII – Convolutional Neural Networks, J. Wu 
 * 10:00 AM - 10:30 AM o BREAK
 * 10:30 AM - 12:00 PM o Problem: Convolutional Neural Networks J. Wu
 * 12:00 PM - ??:?? PM o BREAK
@@ -95,11 +96,11 @@ Tuesday, Sep 12, 2023
 
 Wednesday, Sep 13, 2023 
 
-* 09:00 AM – 10:00 AM o Graph Neural Networks; J. Wu
+* 09:00 AM – 10:00 AM o Lecture VIII – Graph Neural Networks; J. Wu
 * 10:00 AM – 10:30 AM o BREAK 
 * 10:30 AM – 12:00 PM o Problem: Graph Neural Networks; J. Wu
 * 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o Lecture: The Upper Confidence Bound; A. Sravan
+* 01:30 PM – 02:30 PM o Lecture IX – The Upper Confidence Bound; A. Sravan
 * 02:30 PM – 04:00 PM o Problem: The Upper Confidence Bound; A. Sravan
 * 04:00 PM – 04:30 PM o BREAK 
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
@@ -112,10 +113,10 @@ Wednesday, Sep 13, 2023
 
 Thursday, Sep 14, 2023
 
-* 9:00 AM - 10:00  AM o Lecture: Thompson Sampling; A. Sravan
+* 9:00 AM - 10:00  AM o Lecture X – Thompson Sampling; A. Sravan
 * 09:45 AM – 10:45 AM o Problem: Thompson Sampling; A. Sravan
 * 10:45 AM – 11:00 AM o BREAK 
-* 11:00 AM – 12:00 PM o Professional Development: CV Workshop; V. Toy-Edens
+* 11:00 AM – 12:00 PM o Lecture XI – Professional Development: CV Workshop; V. Toy-Edens
 * 12:00 PM – 01:00 PM o LUNCH 
 * 01:00 PM – 04:30 PM o Hack Session;  
 * 04:30 PM – 05:00 PM o Hack tag–up & Meeting wrap up 
