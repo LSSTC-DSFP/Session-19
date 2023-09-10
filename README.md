@@ -49,9 +49,9 @@ Sunday, Sep 10, 2023
  * 09:45 AM – 10:30 AM  o  Introduction to Machine Learning; B. Scott
  * 10:30 AM – 11:00 AM  o  BREAK
  * 11:00 AM – 12:00 PM  o  Problem: Introduction to ML; B. Scott
- * 12:00 PM – 01:30 PM  o  LUNCH
- * 01:30 PM – 02:15 PM  o  Introduction to Unsupervised Learning; A. Miller
- * 02:15 PM – 03:15 PM  o  BREAK
+ * 12:00 PM – 01:45 PM  o  LUNCH
+ * 01:45 PM – 02:45 PM  o  Introduction to Unsupervised Learning; A. Miller
+ * 02:45 PM – 03:15 PM  o  BREAK
  * 03:15 PM – 04:00 PM  o Problem: Introduction to Unsupervised Learning; A. Miller
  * 04:00 PM – 05:00 PM  o Introduction to Dimensionality Reduction; B. Scott
  * 05:00 PM - 06:00 PM  o Problem: Introduction to Dimensionality Reduction; B. Scott
