@@ -50,7 +50,7 @@ Sunday, Sep 10, 2023
  * 10:30 AM – 11:00 AM  o  BREAK
  * 11:00 AM – 12:15 PM  o  [Problem](./day1/Introduction_to_ML_tutorial_no_solutions.ipynb) | [Solutions](./day1/Introduction_to_ML_tutorial.ipynb) I – Introduction to ML; B. Scott
  * 12:15 PM – 01:45 PM  o  LUNCH
- * 01:45 PM – 02:30 PM  o  Lecture II – [Introduction to Unsupervised Learning]((./day1/IntroductionToUnsupervisedLearning.ipynb); A. Miller
+ * 01:45 PM – 02:30 PM  o  Lecture II – [Introduction to Unsupervised Learning](./day1/IntroductionToUnsupervisedLearning.ipynb); A. Miller
  * 02:30 PM – 03:30 PM  o  Problem II – Introduction to Unsupervised Learning; A. Miller
  * 03:30 PM – 03:40 PM  o  BREAK
  * 04:00 PM – 05:00 PM  o  Lecture III – [Introduction to Dimensionality Reduction](./day1/Dimensionality_Reduction.ipynb); B. Scott
