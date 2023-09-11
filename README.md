@@ -60,15 +60,15 @@ Sunday, Sep 10, 2023
 
  * 09:00 AM – 09:30 AM  o  Introduction of Cohort 7 and the new instructors
  * 09:30 AM – 09:45 AM  o  Introduction to Hack Sessions
- * 09:45 AM – 10:30 AM  o  Lecture I – Introduction to Machine Learning; B. Scott
+ * 09:45 AM – 10:30 AM  o  Lecture I – [Introduction to Machine Learning](./day1/Introduction%20to%20ML.ipynb); B. Scott
  * 10:30 AM – 11:00 AM  o  BREAK
- * 11:00 AM – 12:15 PM  o  Problem I – Introduction to ML; B. Scott
+ * 11:00 AM – 12:15 PM  o  [Problem](./day1/Introduction_to_ML_tutorial_no_solutions.ipynb) | [Solutions](./day1/Introduction_to_ML_tutorial.ipynb) I – Introduction to ML; B. Scott
  * 12:15 PM – 01:45 PM  o  LUNCH
- * 01:45 PM – 02:30 PM  o  Lecture II – Introduction to Unsupervised Learning; A. Miller
+ * 01:45 PM – 02:30 PM  o  Lecture II – [Introduction to Unsupervised Learning](./day1/IntroductionToUnsupervisedLearning.ipynb); A. Miller
  * 02:30 PM – 03:30 PM  o  Problem II – Introduction to Unsupervised Learning; A. Miller
  * 03:30 PM – 03:40 PM  o  BREAK
- * 04:00 PM – 05:00 PM  o  Lecture III – Introduction to Dimensionality Reduction; B. Scott
- * 05:00 PM - 06:00 PM  o Problem III – Introduction to Dimensionality Reduction; B. Scott
+ * 04:00 PM – 05:00 PM  o  Lecture III – [Introduction to Dimensionality Reduction](./day1/Dimensionality_Reduction.ipynb); B. Scott
+ * 05:00 PM - 06:00 PM  o [Problem](./day1/Dimensionality_reduction_no_solutions.ipynb) | [Solutions](./day1/Dimensionality_Reduction_Tutorial.ipynb) III – Introduction to Dimensionality Reduction; B. Scott
  
 ## Day 2 – Supervised Machine Learning, Tree, & Ensemble Methods 
 
@@ -81,7 +81,7 @@ Monday, Sep 11, 2023
 
  * 09:00 AM – 10:30 AM  o Lecture IV – Introduction to Supervised Machine Learning; V. Acquaviva
  * 10:30 AM – 11:00 AM  o  BREAK
- * 11:00 AM – 12:00 PM  o Problem – Introduction to Supervised Machine Learning; V. Acquaviva
+ * 11:00 AM – 12:00 PM  o [Problem](./day2/SGClassification_ToFill.ipynb) – Introduction to Supervised Machine Learning; V. Acquaviva
  * 12:00 PM - 01:30 PM o LUNCH 
  * 01:30 PM – 02:30 PM  o Lecture V – Tree & Ensemble Methods; V. Acquaviva
  * 02:30 PM – 03:30 PM  o Problem: Tree & Ensemble Methods; V. Acquaviva
