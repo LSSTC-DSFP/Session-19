@@ -67,7 +67,7 @@ Monday, Sep 11, 2023
 
  * 09:00 AM – 10:30 AM  o Lecture IV – Introduction to Supervised Machine Learning; V. Acquaviva
  * 10:30 AM – 11:00 AM  o  BREAK
- * 11:00 AM – 12:00 PM  o Problem – Introduction to Supervised Machine Learning; V. Acquaviva
+ * 11:00 AM – 12:00 PM  o [Problem](./day2/SGClassification_ToFill.ipynb) – Introduction to Supervised Machine Learning; V. Acquaviva
  * 12:00 PM - 01:30 PM o LUNCH 
  * 01:30 PM – 02:30 PM  o Lecture V – Tree & Ensemble Methods; V. Acquaviva
  * 02:30 PM – 03:30 PM  o Problem: Tree & Ensemble Methods; V. Acquaviva
