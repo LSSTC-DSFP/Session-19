@@ -83,7 +83,7 @@ Monday, Sep 11, 2023
 
 Tuesday, Sep 12, 2023
 
-* 09:00 AM - 10:00 AM o Lecture VII – Convolutional Neural Networks, J. Wu 
+* 09:00 AM - 10:00 AM o Lecture VII – [Convolutional Neural Networks](./day3/Convolutional%20Neural%20Networks.ipynb), J. Wu 
 * 10:00 AM - 10:30 AM o BREAK
 * 10:30 AM - 12:00 PM o Problem: Convolutional Neural Networks J. Wu
 * 12:00 PM - ??:?? PM o BREAK
