@@ -96,7 +96,7 @@ Tuesday, Sep 12, 2023
 
 Wednesday, Sep 13, 2023 
 
-* 09:00 AM – 10:00 AM o Lecture VIII – Graph Neural Networks; J. Wu
+* 09:00 AM – 10:00 AM o [Lecture](./day4/GraphNeuralNetworks.ipynb) VIII – Graph Neural Networks; J. Wu
 * 10:00 AM – 10:30 AM o BREAK 
 * 10:30 AM – 12:00 PM o Problem: Graph Neural Networks; J. Wu
 * 12:00 PM – 01:30 PM o LUNCH 
