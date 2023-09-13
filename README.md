@@ -32,8 +32,8 @@ Saturday, Sep 9, 2023
 * 11:30 AM - 12:15 PM Introduction to the Vera C Rubin Observatory and Legacy Survey of Space & Time; L. Walkowicz
 * 12:15 PM - 12:30 PM Goals of the DSFP; B. Scott
 * 12:30 PM - 01:30 PM LUNCH (provided) & Discussion of the Code of Conduct; B. Scott
-* 01:30 PM - 02:45 PM [Probability and Data](./day0/ProbabilityAndData.ipynb); A. Miller [Solutions](./day0/ProbabilityAndDataSolutions.ipynb)
-* 02:45 PM - 04:00 PM [Introduction to Bayesian Statistics](./day0/Introduction%20to%20Bayesian%20Reasoning%20(Session%2019%20Orientation)%20No%20Solutions.ipynb); B. Scott
+* 01:30 PM - 02:45 PM [Probability and Data](./day0/ProbabilityAndData.ipynb) [Solutions](./day0/ProbabilityAndDataSolutions.ipynb); A. Miller 
+* 02:45 PM - 04:00 PM [Introduction to Bayesian Statistics](./day0/IntroductiontoBayesianReasoningNoSolutions.ipynb) [Solutions](./day0/IntroductiontoBayesianReasoning.ipynb); B. Scott
 * 04:00 PM - ??? Break
  
 ## Day 1 – An Introduction to Machine Learning & Unsupervised Learning 
@@ -46,15 +46,15 @@ Sunday, Sep 10, 2023
 
  * 09:00 AM – 09:30 AM  o  Introduction of Cohort 7 and the new instructors
  * 09:30 AM – 09:45 AM  o  Introduction to Hack Sessions
- * 09:45 AM – 10:30 AM  o  Lecture I – [Introduction to Machine Learning](./day1/Introduction%20to%20ML.ipynb); B. Scott
+ * 09:45 AM – 10:30 AM  o  Lecture I – [Introduction to Machine Learning](./day1/IntroductiontoML.ipynb); B. Scott
  * 10:30 AM – 11:00 AM  o  BREAK
- * 11:00 AM – 12:15 PM  o  [Problem](./day1/Introduction_to_ML_tutorial_no_solutions.ipynb) | [Solutions](./day1/Introduction_to_ML_tutorial.ipynb) I – Introduction to ML; B. Scott
+ * 11:00 AM – 12:15 PM  o  [Problem](./day1/MLTutorialNoSolutions.ipynb) | [Solutions](./day1/IntroductiontoMLTutorial.ipynb) I – Introduction to ML; B. Scott
  * 12:15 PM – 01:45 PM  o  LUNCH
  * 01:45 PM – 02:30 PM  o  Lecture II – [Introduction to Unsupervised Learning](./day1/IntroductionToUnsupervisedLearning.ipynb); A. Miller
  * 02:30 PM – 03:30 PM  o  Problem II – Introduction to Unsupervised Learning; A. Miller
  * 03:30 PM – 03:40 PM  o  BREAK
- * 04:00 PM – 05:00 PM  o  Lecture III – [Introduction to Dimensionality Reduction](./day1/Dimensionality_Reduction.ipynb); B. Scott
- * 05:00 PM - 06:00 PM  o [Problem](./day1/Dimensionality_reduction_no_solutions.ipynb) | [Solutions](./day1/Dimensionality_Reduction_Tutorial.ipynb) III – Introduction to Dimensionality Reduction; B. Scott
+ * 04:00 PM – 05:00 PM  o  Lecture III – [Introduction to Dimensionality Reduction](./day1/DimensionalityReduction.ipynb); B. Scott
+ * 05:00 PM - 06:00 PM  o [Problem](./day1/DimensionalityReductionNoSolutions.ipynb) | [Solutions](./day1/DimensionalityReductionTutorial.ipynb) III – Introduction to Dimensionality Reduction; B. Scott
  
 ## Day 2 – Supervised Machine Learning, Tree, & Ensemble Methods 
 
@@ -67,10 +67,10 @@ Monday, Sep 11, 2023
 
  * 09:00 AM – 10:30 AM  o Lecture IV – Introduction to Supervised Machine Learning; V. Acquaviva
  * 10:30 AM – 11:00 AM  o  BREAK
- * 11:00 AM – 12:00 PM  o [Problem](./day2/SGClassification_ToFill.ipynb) – Introduction to Supervised Machine Learning; V. Acquaviva
+ * 11:00 AM – 12:00 PM  o [Problem](./day2/SGClassificationToFill.ipynb) – Introduction to Supervised Machine Learning; V. Acquaviva
  * 12:00 PM - 01:30 PM o LUNCH 
  * 01:30 PM – 02:30 PM  o Lecture V – Tree & Ensemble Methods; V. Acquaviva
- * 02:30 PM – 03:30 PM  o [Problem](./day2/Bagging%20and%20Boosting.ipynb): Tree & Ensemble Methods; V. Acquaviva
+ * 02:30 PM – 03:30 PM  o [Problem](./day2/Baggingand20Boosting.ipynb): Tree & Ensemble Methods; V. Acquaviva
  * 03:30 PM - 04:00 PM o BREAK 
  * 04:00 PM - 05:30 PM o Lecture VI – [Building Perceptrons for Classification](day2/BuildingPerceptronsForClassification.ipynb); A. Miller 
  * 06:00 PM - ??:?? PM o Group dinner 
@@ -83,7 +83,7 @@ Monday, Sep 11, 2023
 
 Tuesday, Sep 12, 2023
 
-* 09:00 AM - 10:00 AM o Lecture VII – Convolutional Neural Networks, J. Wu 
+* 09:00 AM - 10:00 AM o Lecture VII – [Convolutional Neural Networks](./day3/ConvolutionalNeuralNetworks.ipynb), J. Wu 
 * 10:00 AM - 10:30 AM o BREAK
 * 10:30 AM - 12:00 PM o Problem: Convolutional Neural Networks J. Wu
 * 12:00 PM - ??:?? PM o BREAK
@@ -96,12 +96,12 @@ Tuesday, Sep 12, 2023
 
 Wednesday, Sep 13, 2023 
 
-* 09:00 AM – 10:00 AM o Lecture VIII – Graph Neural Networks; J. Wu
+* 09:00 AM – 10:00 AM o Lecture VIII – [Graph Neural Networks](./day4/GraphNeuralNetworks.ipynb); J. Wu
 * 10:00 AM – 10:30 AM o BREAK 
 * 10:30 AM – 12:00 PM o Problem: Graph Neural Networks; J. Wu
 * 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o Lecture IX – The Upper Confidence Bound; A. Sravan
-* 02:30 PM – 04:00 PM o Problem: The Upper Confidence Bound; A. Sravan
+* 01:30 PM – 02:30 PM o Lecture IX – [Thompson Sampling](https://drexel0-my.sharepoint.com/:o:/g/personal/ns3527_drexel_edu/Ek10V_6sSW9BmzSRKqR6YR0BADDdEjAZI0mpj4IuOADAGQ?e=RZ902Z); A. Sravan
+* 02:30 PM – 04:00 PM o Problem: Thompson Sampling; A. Sravan
 * 04:00 PM – 04:30 PM o BREAK 
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
  
@@ -113,8 +113,8 @@ Wednesday, Sep 13, 2023
 
 Thursday, Sep 14, 2023
 
-* 9:00 AM - 10:00  AM o Lecture X – Thompson Sampling; A. Sravan
-* 09:45 AM – 10:45 AM o Problem: Thompson Sampling; A. Sravan
+* 9:00 AM - 10:00  AM o Lecture X – The Upper Confidence Bound; A. Sravan
+* 09:45 AM – 10:45 AM o Problem: The Upper Confidence Bound; A. Sravan
 * 10:45 AM – 11:00 AM o BREAK 
 * 11:00 AM – 12:00 PM o Lecture XI – Professional Development: CV Workshop; V. Toy-Edens
 * 12:00 PM – 01:00 PM o LUNCH 
