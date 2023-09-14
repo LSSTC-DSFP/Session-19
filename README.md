@@ -6,7 +6,7 @@ The guest instructors for the S19 were:
 Viviana Acquaviva [:octocat:](https://github.com/vacquaviva)  
 John Wu [:octocat:](https://github.com/jwuphysics)  
 Niharika Sravan [:octocat:](https://github.com/niharika-sravan)  
-Vicki Toy-Edens [:octocat:]  
+Vicki Toy-Edens [:octocat:](https://github.com/vtoyedens)
 
 Additional lectures were given by the DSFP leadership team:  
 Bryan Scott [:octocat:](https://github.com/bscot)  
