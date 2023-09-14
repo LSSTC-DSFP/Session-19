@@ -113,7 +113,7 @@ Wednesday, Sep 13, 2023
 
 Thursday, Sep 14, 2023
 
-* 9:00 AM - 10:00  AM o Lecture X – Thompson Sampling; A. Sravan
+* 9:00 AM - 10:00  AM o Lecture X – [Thompson Sampling](https://drexel0-my.sharepoint.com/:o:/g/personal/ns3527_drexel_edu/Ek10V_6sSW9BmzSRKqR6YR0BADDdEjAZI0mpj4IuOADAGQ?e=RZ902Z); A. Sravan
 * 10:00 AM – 10:45 AM o Problem: Thompson Sampling; A. Sravan
 * 10:45 AM – 11:00 AM o BREAK 
 * 11:00 AM – 12:00 PM o Lecture XI – [Professional Development](./day5/LSST_DSFP_prof_development_Toy-Edens.pdf): CV Workshop; V. Toy-Edens
