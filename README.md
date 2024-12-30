@@ -83,7 +83,7 @@ Monday, Sep 11, 2023
 
 Tuesday, Sep 12, 2023
 
-* 09:00 AM - 10:00 AM o Lecture VII – [Convolutional Neural Networks](./day3/ConvolutionalNeuralNetworks.ipynb), J. Wu 
+* 09:00 AM - 10:00 AM o Lecture VII [:movie_camera:](https://www.youtube.com/watch?v=E_GZ4jTqAIU) – [Convolutional Neural Networks](./day3/ConvolutionalNeuralNetworks.ipynb), J. Wu 
 * 10:00 AM - 10:30 AM o BREAK
 * 10:30 AM - 12:00 PM o Problem: Convolutional Neural Networks J. Wu
 * 12:00 PM - ??:?? PM o BREAK
@@ -96,7 +96,7 @@ Tuesday, Sep 12, 2023
 
 Wednesday, Sep 13, 2023 
 
-* 09:00 AM – 10:00 AM o Lecture VIII – [Graph Neural Networks](./day4/GraphNeuralNetworks.ipynb); J. Wu
+* 09:00 AM – 10:00 AM o Lecture VIII [:movie_camera:](https://www.youtube.com/watch?v=rfqGGfnWMb0) – [Graph Neural Networks](./day4/GraphNeuralNetworks.ipynb); J. Wu
 * 10:00 AM – 10:30 AM o BREAK 
 * 10:30 AM – 12:00 PM o Problem: Graph Neural Networks; J. Wu
 * 12:00 PM – 01:30 PM o LUNCH 
