@@ -1,5 +1,11 @@
 # Session 19
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+Author: Bryan Scott and Daniel Yahalomi
+=======
+The nineteenth session of the LSSTC DSFP focuses on Machine Learning. 
+=======
 The nineteenth session of the LSSTC DSFP was hosted by Drexel University in September 2023 and the curriculum covered Machine Learning. 
 
 The guest instructors for the S19 were:  
@@ -8,10 +14,18 @@ John Wu [:octocat:](https://github.com/jwuphysics)
 Niharika Sravan [:octocat:](https://github.com/niharika-sravan)  
 Vicki Toy-Edens [:octocat:](https://github.com/vtoyedens)
 
+<<<<<<< HEAD
+Additional lectures were given by the DSFP leadership team: 
+Bryan Scott [:octocat:](https://github.com/bscot)
+Adam Miller [:octocat:](https://github.com/adamamiller)  
+Lucianne Walkowicz [:octocat:](https://github.com/lmwalkowicz)
+>>>>>>> 76d398bbe4bbbf95d99a12668cc0ad8c56089df6
+=======
 Additional lectures were given by the DSFP leadership team:  
 Bryan Scott [:octocat:](https://github.com/bscot)  
 Adam Miller [:octocat:](https://github.com/adamamiller)   
 Lucianne Walkowicz [:octocat:](https://github.com/lmwalkowicz)  
+>>>>>>> 5ab3de52ada4bc5425066a89c444211d7be2f8b0
 
 # Schedule
 
@@ -120,3 +134,4 @@ Thursday, Sep 14, 2023
 * 12:00 PM – 01:00 PM o LUNCH 
 * 01:00 PM – 04:30 PM o Hack Session;  
 * 04:30 PM – 05:00 PM o Hack tag–up & Meeting wrap up 
+>>>>>>> f4a67ec09356c4d50cef250b5b19757d6031b5a0
